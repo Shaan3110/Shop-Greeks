@@ -1,0 +1,15 @@
+The website should be accessed on Laptop or PC only
+
+An active internet connection is more than enough to run the website
+
+
+Tech Used:-
+1. Bootstrap
+2. HTML
+3. CSS3
+4. Canva (For design the posters)
+
+
+Platform Used : - Visual Studio Code
+
+Happy Coding !!
